@@ -9,7 +9,7 @@ This repository contains a solution to an HTML and JavaScript template exercise:
 2. Inside the project folder, create a subfolder named `templates` to store the template files.
 3. Create a file `page.html` inside the `templates` folder. This file should include:
    - Recreate the image using CSS, different font sizes, and color areas. Matches the image:
-     ![book](https://github.com/user-attachments/assets/8da650b1-2e6b-4bfe-b104-17cc214fe963)
+     ![book - Copy](https://github.com/user-attachments/assets/04ae82a4-2cb2-4250-88cf-43cb8a3e53d1)
    - The design should be implemented using internal CSS.
 4. Create an `app.js` file that will assist the server in completing the FrontEnd for the project.
 
