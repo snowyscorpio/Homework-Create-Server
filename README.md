@@ -27,5 +27,5 @@ This repository contains a solution to an HTML and JavaScript template exercise:
 
 Have a great day ♡
 
+![Cute Cat](https://github.com/user-attachments/assets/6795731d-e292-448e-8057-ff67fd7ff295)
 
-![727905fba0c544fbbdb9c39cbbbcb92a](https://github.com/user-attachments/assets/0123dc1a-189a-4530-a9b0-16355af6156b)
