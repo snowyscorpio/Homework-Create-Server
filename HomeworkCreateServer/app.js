@@ -6,22 +6,26 @@ const path = require('path');
 
 const dirPath = path.join(__dirname, '/templates');
 
+// read html file
 
 const file2Send = fs.readFileSync(`${dirPath}/page.html`)
 
+// creating server
 
 const server = http.createServer(function (req, res) {
 
+  //handle incoming requests here..
 
   console.log(req);
 
   res.writeHead(200, 'OK', { 'Content-Type': 'text/html', 'X-Powered-By': 'Node.js' });
 
+  // write html file to the client
 
   res.end(file2Send);
 
 });
 
-server.listen(3000);
+server.listen(3000); //listen for any incoming requests
 
 console.log('Node.js web server at port 3000 is running..');
