@@ -16,6 +16,7 @@ This repository contains a solution to an HTML and JavaScript template exercise:
 4. Create an `app.js` file that will assist the server in completing the FrontEnd for the project.
 
 ### Project Structure:
+- The folder `HomeworkCreateServer` contains everything.
 - The HTML files will be in the `templates` folder.
 - The `app.js` file will handle the server-side tasks.
 
