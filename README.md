@@ -20,6 +20,8 @@ This repository contains a solution to an HTML and JavaScript template exercise:
 - The HTML files will be in the `templates` folder.
 - The `app.js` file will handle the server-side tasks.
 
+  > Don't forget to use `npm install`
+
 ### מגישות:
 - לורן חצרוני כיתה 48/5
 - סוג'וד שאני כיתה 48/5
