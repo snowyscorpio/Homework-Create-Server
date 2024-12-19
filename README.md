@@ -20,7 +20,14 @@ This repository contains a solution to an HTML and JavaScript template exercise:
 - The HTML files will be in the `templates` folder.
 - The `app.js` file will handle the server-side tasks.
 
-  > Don't forget to use `npm install`
+### How to Run:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install Node.js if not already installed.
+(using `npm install`)
+4. Run the following command to start the server:
+   ```bash
+   node app.js
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
