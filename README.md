@@ -30,7 +30,6 @@ This repository contains a solution to an HTML and JavaScript template exercise:
    node app.js
 
 
-
 Have a great day ♡
 
 ![Cute Cat](https://github.com/user-attachments/assets/6795731d-e292-448e-8057-ff67fd7ff295)
